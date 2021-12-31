@@ -1,90 +1,119 @@
-# Xcode
-#
-# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
-## User settings
-xcuserdata/
-
-## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
-*.xcscmblueprint
-*.xccheckout
-
-## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
-build/
-DerivedData/
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+!default.perspectivev3
+!default.xcworkspace
+*.dSYM
+*.dSYM.zip
+*.hmap
+*.ipa
+*.lcov
+*.lock
+*.log
+*.mode1v3
+*.mode2v3
 *.moved-aside
 *.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
 *.perspectivev3
-!default.perspectivev3
-
-## Obj-C/Swift specific
-*.hmap
-
-## App packaging
-*.ipa
-*.dSYM.zip
-*.dSYM
-
-## Playgrounds
-timeline.xctimeline
-playground.xcworkspace
-
-# Swift Package Manager
-#
-# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
-# Packages/
-# Package.pins
-# Package.resolved
-# *.xcodeproj
-#
-# Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
-# hence it is not needed unless you have added a package configuration file to your project
-# .swiftpm
-
-.build/
-
-# CocoaPods
-#
-# We recommend against adding the Pods directory to your .gitignore. However
-# you should judge for yourself, the pros and cons are mentioned at:
-# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
-#
-# Pods/
-#
-# Add this line if you want to avoid checking in source code from the Xcode workspace
-# *.xcworkspace
-
-# Carthage
-#
-# Add this line if you want to avoid checking in source code from Carthage dependencies.
-# Carthage/Checkouts
-
+*.pid
+*.pid.lock
+*.seed
+*.swp
+*.tgz
+*.tsbuildinfo
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+*~.nib
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.DocumentRevisions-V100
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._*
+.apdisk
+.build
+.bundle
+.cache
+.cache/
+.com.apple.timemachine.donotpresent
+.dynamodb/
+.env
+.env.test
+.eslintcache
+.fseventsd
+.fusebox/
+.grunt
+.idea
+.lock-wscript
+.next
+.node_repl_history
+.npm
+.nuxt
+.nyc_output
+.parcel-cache
+.pnp.*
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.serverless/
+.swiftpm
+.tern-port
+.vscode-test
+.vuepress/dist
+.yarn-integrity
+.yarn/build-state.yml
+.yarn/cache
+.yarn/unplugged
+/*.gcno
+Artifacts/
+CI
+CI-Pods.tar
+Carthage/Build
 Carthage/Build/
-
-# Accio dependency management
-Dependencies/
-.accio/
-
-# fastlane
-#
-# It is recommended to not store the screenshots in the git repo.
-# Instead, use fastlane to re-generate the screenshots whenever they are needed.
-# For more information about the recommended setup visit:
-# https://docs.fastlane.tools/best-practices/source-control/#source-control
-
-fastlane/report.xml
+DerivedData
+DerivedData/
+Icon
+Network Trash Folder
+Pipeline/Dockers/Buildtime/
+Podfile.lock
+Pods/
+Temporary Items
+artifacts/
+bower_components
+build/
+build/Release
+coverage
+default.profraw
+dist
+dockerbuild
+dockermnt
 fastlane/Preview.html
+fastlane/report.xml
 fastlane/screenshots/**/*.png
 fastlane/test_output
-
-# Code Injection
-#
-# After new code Injection tools there's a generated folder /iOSInjectionProject
-# https://github.com/johnno1962/injectionforxcode
-
 iOSInjectionProject/
+jspm_packages/
+lerna-debug.log*
+lib-cov
+logs
+node_modules/
+npm-debug.log*
+pids
+profile
+project.xcworkspace
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+temp/
+temps/
+web_modules/
+xcuserdata
+xcuserdata/
+yarn-debug.log*
+yarn-error.log*
+
