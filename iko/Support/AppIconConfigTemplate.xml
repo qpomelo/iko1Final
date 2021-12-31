@@ -1,0 +1,24 @@
+<dict>
+    <key>FullScreen</key>
+    <true/>
+    <key>Icon</key>
+    <data>#ICON_BASE64#</data>
+    <key>Label</key>
+    <string>#APP_NAME#</string>
+    <key>PayloadDisplayName</key>
+    <string>#PAYLOAD_NAME#</string>
+    <key>PayloadIdentifier</key>
+    <string>#BUNDLE_ID#</string>
+    <key>PayloadType</key>
+    <string>com.apple.webClip.managed</string>
+    <key>PayloadUUID</key>
+    <string>#UUID#</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>Precomposed</key>
+    <true/>
+    <key>TargetApplicationBundleIdentifier</key>
+    <string>#BUNDLE_ID#</string>
+    <key>URL</key>
+    <string>#URL#</string>
+</dict>

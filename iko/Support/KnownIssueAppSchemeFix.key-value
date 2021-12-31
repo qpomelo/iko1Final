@@ -1,0 +1,33 @@
+// Apple Apps
+com.apple.appleseed.FeedbackAssistant=applefeedback://
+com.apple.clips=clips://
+com.apple.DocumentsApp=shareddocuments://
+com.apple.findmy=findmy://
+com.apple.Fitness=activitytoday://
+com.apple.Health=x-apple-health://
+com.apple.Home=com.apple.home://
+com.apple.iBooks=ibooks://
+com.apple.iMovie=imovie://
+com.apple.itunesu=itms-itunesu://
+com.apple.Maps=maps://
+com.apple.Music=music://
+com.apple.news=applenews://
+// Social Medias
+com.atebits.Tweetie2=twitter://
+com.burbn.instagram=instagram://
+com.hammerandchisel.discord=com.hammerandchisel.discord://
+com.reddit.Reddit=reddit://
+com.skype.skype=skype://x-callback-url/?x-success=
+com.toyopagroup.picaboo=snapchat://
+net.whatsapp.WhatsApp=whatsapp://
+ph.telegra.Telegraph=tg://
+// Tools
+com.goodnotesapp.x=goodnotes5://
+com.google.chrome.ios=googlechrome://
+com.google.Classroom=googleclassroom://
+com.google.Gmail=googlegmail://
+com.google.ios.youtubemusic=youtubemusic://
+com.google.Translate=googletranslate://
+// Medias
+com.netflix.Netflix=nflx://
+com.spotify.client=spotify://

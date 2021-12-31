@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        #APP_ICON_LIST#
+    </array>
+    <key>PayloadDescription</key>
+    <string>#DESCRIPTION#</string>
+    <key>PayloadDisplayName</key>
+    <string>#DISPLAY_NAME#</string>
+    <key>PayloadIdentifier</key>
+    <string>#CONFIG_IDENTIFIER#</string>
+    <key>PayloadOrganization</key>
+    <string>iko</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>#PAYLOAD_UUID#</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
